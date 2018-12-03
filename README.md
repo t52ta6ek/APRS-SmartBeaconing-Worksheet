@@ -19,5 +19,5 @@ The Alternate Charts tab contains separate MPH and KM/H charts for the Turn Thre
 Other differences between Excel and LibreOffice seem to be cosmetic rendering problems with the charts.
 
 Change Log:
-Nov. 10, 2015 - tdel - initial version
+Nov. 10, 2015 - tdel - initial version<br>
 Nov. 20, 2015 - tdel - show both MPH and KM/H
