@@ -5,10 +5,10 @@ The spreadsheet was created using MS-Excel in Office 2010, but can be used in Li
 
 Calculations based on the description of the SmartBeaconing algorithm described at www.hamhud.net (Nov. 2015).
 
-Enter your parameters in the yellow fields on the Beacon Rate worksheet.
+Enter your parameters in the yellow fields on the Beacon Rate worksheet.<br>
 The calculations are performed on a MPH basis (it's what my tracker happens to use) then graphed in terms of both miles and kilometers for comparison.
 
-The speed range can be increased simply by redefining the maximum value for the horizontal Speed axis scale.
+The speed range can be increased simply by redefining the maximum value for the horizontal Speed axis scale.<br>
 In the case of the Turn Threshold chart, the both primary and secondary axes' scales were chosen to align both
 the deg-mph and deg-km/h turn threshold so that these could can be represented by a single line on a single chart. (Works in MS Excel.)
 
