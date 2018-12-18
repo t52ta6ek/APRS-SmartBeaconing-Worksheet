@@ -1,7 +1,7 @@
 # APRS-SmartBeaconing-Worksheet
 Spreadsheet to help visualize APRS SmartBeaconing parameters in a Byonics TinyTrak APRS tracker though should be applicable for any APRS tracker implementing SmartBeaconing.
 
-The spreadsheet was created using MS-Excel in Office 2010, but can be used in LibroOffice.
+The spreadsheet was created using MS-Excel in Office 2010, but can be used in LibreOffice.
 
 Calculations based on the description of the SmartBeaconing algorithm described at www.hamhud.net (Nov. 2015).
 
