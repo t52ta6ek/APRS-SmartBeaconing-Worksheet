@@ -18,6 +18,6 @@ becomes aligned to the MPH scale but is otherwise correctly represented on this 
 The Alternate Charts tab contains separate MPH and KM/H charts for the Turn Threshold that will render correctly in LibreOffice.
 Other differences between Excel and LibreOffice seem to be cosmetic rendering problems with the charts.
 
-Change Log:
+Change Log:<br>
 Nov. 10, 2015 - tdel - initial version<br>
 Nov. 20, 2015 - tdel - show both MPH and KM/H
