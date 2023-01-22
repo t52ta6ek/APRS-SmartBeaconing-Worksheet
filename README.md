@@ -21,3 +21,5 @@ Other differences between Excel and LibreOffice seem to be cosmetic rendering pr
 Change Log:<br>
 Nov. 10, 2015 - tdel - initial version<br>
 Nov. 20, 2015 - tdel - show both MPH and KM/H
+
+![sample1](https://user-images.githubusercontent.com/24543390/213911899-8357d461-65f7-4b00-84e0-2b1770e0a521.png)
