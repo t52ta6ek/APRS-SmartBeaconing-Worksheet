@@ -3,8 +3,8 @@ Spreadsheet to help visualize APRS SmartBeaconing parameters in a Byonics TinyTr
 
 The spreadsheet was created using MS-Excel in Office 2010, but can be used in LibreOffice.
 
-Calculations based on the description of the SmartBeaconing algorithm that was described at hamhud.net (Nov. 2015).<br>
-See this page now at: https://web.archive.org/web/20160109192108/http://hamhud.net/
+Calculations based on the description of the SmartBeaconing algorithm that was described at hamhud.net (Nov. 2015). See this page now at:<br>
+https://web.archive.org/web/20160109192108/http://hamhud.net/
 
 Enter your parameters in the yellow fields on the Beacon Rate worksheet.<br>
 The calculations are performed on a MPH basis (it's what my tracker happens to use) then graphed in terms of both miles and kilometers for comparison.
